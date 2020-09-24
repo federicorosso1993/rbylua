@@ -24,6 +24,7 @@ DVs are generated when the battle begins.
 
 When the menu open run the script.
 It will close the menu and start the battle until it find the shiny target.
+https://www.youtube.com/watch?v=trC0qFi01mI
 
 ## Fishing ##
 
