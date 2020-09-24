@@ -19,6 +19,12 @@ Interact with the sprite, stop at the cry text before the battle and run the scr
 
 Valid for: Snorlax, Zapdos, Articuno, Moltres, Mewtwo, Electrode/Voltorb in Power Plant.
 
+## Mew Glitch ##
+DVs are generated when the battle begins.
+
+When the menu open run the script.
+It will close the menu and start the battle until it find the shiny target.
+
 ## Fishing ##
 
 Species is generated first, and the IVs. Thanks Collector Togami for the info.
